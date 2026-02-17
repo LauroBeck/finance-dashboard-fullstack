@@ -16,11 +16,12 @@ This repository contains a **full-stack finance application**:
 
 ### 1. Run the API
 
-```bash
+>terminal1 bash 
 cd JPMorgan
 dotnet restore
 dotnet run
 The API will run on https://localhost:5001 (or http://localhost:5000).
+>terminal2 bash
 cd finance-dashboard
 npm install
 npm start
