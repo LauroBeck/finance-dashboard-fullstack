@@ -1,0 +1,33 @@
+# -------------------------
+# .NET / C# files
+# -------------------------
+**/bin/
+**/obj/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.code-workspace
+
+# -------------------------
+# Node / React files
+# -------------------------
+**/node_modules/
+**/build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
